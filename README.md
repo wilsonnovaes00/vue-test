@@ -1,53 +1,18 @@
-# Introdução
-Para avaliar um pouco do seu conhecimento técnico e sua forma de resolver problemas, propomos um breve desafio.
+# aula_alura
 
-Criar uma página de listagem, criação, edição e exclusão de usuários usando as urls da API.
+> A Vue.js project
 
-Favor usar components, rotas, bootstrap, Axios
+## Build Setup
 
+``` bash
+# install dependencies
+npm install
 
-Obs: para executar o ambiente dev usar: 
-npm run dev 
-e 
-npm run api
-Fique a vontade para instalar modulos 
+# serve with hot reload at localhost:8080
+npm run dev
 
+# build for production with minification
+npm run build
+```
 
-
-# VUE TESTE - Consumir API
-
-URLS
-
-LISTAR TODOS OS USUÁRIOS
-
-http://localhost:3000/api/usuarios VERBO GET
-
-
-LISTAR UM USUÁRIO POR ID
-
-http://localhost:3000/api/usuarios/{id} VERBO GET
-
-
-CRIAR UM USUÁRIO
-
-http://localhost:3000/api/usuarios VERBO POST
-
-propriedade(s): nome
-
-
-ATUALIZAR USUÁRIO
-
-http://localhost:3000/api/usuarios/6 VERBO PUT
-
-propriedade(s): nome
-
-
-APAGAR UM USUÁRIO
-
-http://localhost:3000/api/usuarios/6 VERBO DELETE
-
-
-
-
- 
-
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).

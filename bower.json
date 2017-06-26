@@ -1,0 +1,21 @@
+{
+  "name": "aula_alura",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "Wilson Pereira Novaes Filho <wilsonnovaes00@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./src/vendors/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
