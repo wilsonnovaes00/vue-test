@@ -22,7 +22,7 @@ export default{
     }),
 }
 </script>
-<style scoped>
+<style scoped> 
 .cadastro{
     padding-top: 15%;
     margin-right: 80%;
